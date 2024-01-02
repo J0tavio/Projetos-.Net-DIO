@@ -6,7 +6,7 @@ Este repositório contém uma lista de atividades que eu fiz no Bootcamp da Avan
 
 * **Pensamento computacional**
 * **Git**
-* **C-Sharp**
+* **.Net**
   
 ## Agradecimentos
 
