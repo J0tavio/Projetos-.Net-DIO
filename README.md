@@ -5,6 +5,7 @@ Este repositório contém uma lista de atividades que eu fiz no Bootcamp da Avan
 ## Cursos
 
 * **Pensamento computacional**
+* **Git**
 * **C-Sharp**
   
 ## Agradecimentos
