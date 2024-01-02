@@ -1,0 +1,14 @@
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\bin\Debug\net8.0\Atividades-da-Dio-C#.exe
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\bin\Debug\net8.0\Atividades-da-Dio-C#.deps.json
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\bin\Debug\net8.0\Atividades-da-Dio-C#.runtimeconfig.json
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\bin\Debug\net8.0\Atividades-da-Dio-C#.dll
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\bin\Debug\net8.0\Atividades-da-Dio-C#.pdb
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\Atividades-da-Dio-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\Atividades-da-Dio-C#.AssemblyInfoInputs.cache
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\Atividades-da-Dio-C#.AssemblyInfo.cs
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\Atividades-da-Dio-C#.csproj.CoreCompileInputs.cache
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\Atividades-da-Dio-C#.dll
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\refint\Atividades-da-Dio-C#.dll
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\Atividades-da-Dio-C#.pdb
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\Atividades-da-Dio-C#.genruntimeconfig.cache
+C:\Users\jo370\OneDrive\Documentos\BackEnd\Projetos da DIO\Atividades-da-Dio-C#\obj\Debug\net8.0\ref\Atividades-da-Dio-C#.dll
